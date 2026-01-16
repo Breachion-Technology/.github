@@ -1,49 +1,63 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33CCFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Organization;Backend+%7C+Infrastructure+%7C+DevOps;Clean+Code+%7C+Scalable+Systems+%7C+Security+First" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33CCFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Organization;Language-Agnostic+%7C+Platform-Independent;Systems+Engineering+%7C+Infrastructure+%7C+DevOps;Clean+Architecture+%7C+Scalable+Systems+%7C+Security+First" />
 </div>
 
 ## 🏢 About This Organization
-This organization is structured around role-based engineering teams focused on building scalable, secure, and maintainable software systems. We follow team-based access control, least-privilege security, pull-request–driven development, and production-grade CI/CD practices.
+This organization is built around **problem-driven, language-agnostic software engineering**.  
+We design, build, deploy, and operate software systems **independent of programming language, framework, or platform**.
+
+Our focus is not on specific technologies, but on:
+- Correct system design
+- Clean and maintainable architecture
+- Scalability and performance
+- Security and operational excellence
+
+We follow role-based team structures, least-privilege access control, pull-request–driven development, and production-grade CI/CD practices across all projects.
 
 ## 👥 Teams & Responsibilities
 | Team | Responsibility |
 |----|---------------|
-| org-admins | Organization ownership, security, repository administration |
-| backend | APIs, services, business logic |
-| frontend | Web UI and client-side applications |
-| devops | CI/CD, infrastructure, deployments |
-| qa | Quality assurance and release validation |
-| product | Roadmap, requirements, issue management |
-| design | UI/UX design and visual assets |
-| read-only | Stakeholders and observers |
+| org-admins | Organization ownership, security policies, repository administration |
+| backend | Core application logic, APIs, services, integrations |
+| frontend | User interfaces, client applications, user experience |
+| devops | Infrastructure, CI/CD pipelines, deployments, monitoring |
+| qa | Quality assurance, testing strategies, release validation |
+| product | Product direction, requirements, roadmap management |
+| design | UI/UX design systems and visual standards |
+| read-only | Stakeholders, observers, and external reviewers |
 
-## 🚀 Technical Domains
+## 🚀 Engineering Scope & Capabilities
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>Backend & Software Engineering</h3>
-      <p><b>Team:</b> backend</p>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,git,cs,js&theme=dark&perline=4" />
+      <h3>Software Engineering</h3>
+      <p>Language-agnostic development across backend, frontend, desktop, mobile, and embedded systems.</p>
+      <p><b>Team:</b> backend / frontend</p>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,cs,cpp,rust,php,ruby&theme=dark&perline=5" />
     </td>
     <td align="center" width="50%">
-      <h3>Infrastructure & DevOps</h3>
+      <h3>Infrastructure & Operations</h3>
+      <p>Cloud, on-prem, networking, automation, CI/CD, and system observability.</p>
       <p><b>Team:</b> devops</p>
-      <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,githubactions,wireshark&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,githubactions,terraform,ansible&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
 
 ## 🔁 Development Workflow
-Feature branches are created from main, pull requests are mandatory, code owners automatically assign reviewers, minimum two approvals are required, CI pipelines must pass, and merges to main are performed only via pull requests.
+All development follows a standardized workflow regardless of technology stack.  
+Feature branches are created from the main branch, pull requests are mandatory, reviewers are assigned automatically via code ownership rules, a minimum of two approvals is required, all automated checks must pass, and merges to protected branches are performed exclusively through pull requests.
 
 ## 🔐 Security & Governance
-Direct pushes to protected branches are disabled, access is enforced via GitHub Teams, code ownership is managed with CODEOWNERS, secrets are handled through GitHub Environments, and admin privileges are strictly limited to the org-admins team.
+Direct pushes to protected branches are disabled.  
+Access control is enforced strictly through GitHub Teams using a least-privilege model.  
+Code ownership is defined via CODEOWNERS, secrets are managed through GitHub Environments, and administrative privileges are limited to the org-admins team to ensure operational and security integrity.
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/company/breachion-technology" target="_blank">
+  <a href="https://www.linkedin.com/company/breachion-technology" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Organization-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="breachion@gmail.com">
+  <a href="mailto:breachion@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
