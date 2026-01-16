@@ -63,7 +63,7 @@ Code ownership is defined via CODEOWNERS, secrets are managed through GitHub Env
   <a href="https://www.instagram.com/breachion/?igsh=MmIwNTcyZTZkOHQ3">
     <img src="https://img.shields.io/badge/Instagram-@breachion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href=" https://www.breachion.com/" target="_blank">
+  <a href="https://www.breachion.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
