@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33CCFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Organization;Language-Agnostic+%7C+Platform-Independent;Systems+Engineering+%7C+Infrastructure+%7C+DevOps;Clean+Architecture+%7C+Scalable+Systems+%7C+Security+First" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33CCFF&center=true&vCenter=true&width=900&lines=Breachion-Technology;Software+Engineering+Organization;Language-Agnostic+%7C+Platform-Independent;Systems+Engineering+%7C+Infrastructure+%7C+DevOps;Clean+Architecture+%7C+Scalable+Systems+%7C+Security+First" />
 </div>
 
 ## 🏢 About This Organization
