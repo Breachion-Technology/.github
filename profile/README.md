@@ -1,94 +1,56 @@
-<div align="center">
-
-### Breachion Technology  
-**Engineering-Driven Software Organization**
-
-*Language-Agnostic • Platform-Independent*  
-*Systems Engineering • Infrastructure • DevOps*  
-*Security-First • Production-Grade Systems*
-
-</div>
+<p align="center">
+  <img src="assets/breachion-hero.svg" alt="Breachion Technology"/>
+</p>
 
 ---
 
-## 🏢 Organization Overview
+## 🏢 About This Organization
 
-**Breachion Technology** is built around **problem-driven, language-agnostic system engineering**.
+**Breachion Technology** is an engineering organization built around  
+**problem-driven, language-agnostic system design**.
 
-We design, build, deploy, and operate **long-lived software systems** that remain maintainable, secure, and operable under real production constraints.
+We design, build, deploy, and operate software systems that remain
+**maintainable, secure, and production-ready** over time.
 
-Our work prioritizes fundamentals over trends:
-
-- Correct system design  
-- Clean and maintainable architecture  
-- Scalability and performance  
-- Security and operational excellence  
-
-Technology choices are treated as implementation details —  
-**system design is the product**.
+Technology choices are implementation details.  
+**System design is the product.**
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-We avoid stack-driven development.
+- Correctness over shortcuts  
+- Architecture over frameworks  
+- Reliability over velocity  
+- Security by default  
 
-Instead, all projects follow first-principles engineering:
-
-- Explicit system boundaries  
-- Clear ownership and responsibility  
-- Deterministic build and release pipelines  
-- Observability by default  
-- Failure-aware design  
-
-Every repository must be:
-- Understandable by engineers outside the original team  
-- Operable in production  
-- Secure by default  
+Every repository is expected to be:
+- Understandable
+- Operable
+- Audit-ready
 
 ---
 
-## 👥 Team Model & Responsibility Boundaries
+## 👥 Teams & Responsibilities
 
 | Team | Responsibility |
 |----|---------------|
-| `org-admins` | Organization governance, security policy, access control |
-| `backend` | Core domain logic, APIs, service boundaries |
-| `frontend` | User-facing applications and interfaces |
-| `devops` | Infrastructure, CI/CD, deployments, monitoring |
-| `qa` | Test strategy, quality gates, release validation |
-| `product` | Product direction, requirements, roadmap |
-| `design` | UI/UX systems and visual standards |
-| `read-only` | Stakeholders, auditors, external reviewers |
-
-Access is enforced using a **least-privilege model** via GitHub Teams.
+| `org-admins` | Governance, security, access control |
+| `backend` | Core logic, APIs, services |
+| `frontend` | UI systems and user experience |
+| `devops` | CI/CD, infrastructure, monitoring |
+| `qa` | Testing strategy and release validation |
+| `product` | Roadmap and requirements |
+| `design` | UI/UX standards |
 
 ---
 
-## 🚀 Engineering Scope
+## 🔁 Development Model
 
-### Software Engineering
-- Backend and frontend systems
-- Desktop, mobile, and embedded applications
-- Language-agnostic architecture design
-
-### Infrastructure & Operations
-- Cloud and on-prem infrastructure
-- CI/CD pipelines and automation
-- Observability, monitoring, and reliability engineering
-
----
-
-## 🔁 Development Lifecycle
-
-All repositories follow a standardized workflow:
-
-1. Feature branches are created from protected main branches  
-2. Pull requests are mandatory for all changes  
-3. Reviewers are assigned via code ownership  
-4. Approval thresholds are enforced  
-5. Automated checks must pass before merge  
-6. Direct pushes to protected branches are disabled  
+- Mandatory pull requests  
+- Code ownership enforcement  
+- Protected branches  
+- Automated quality gates  
 
 This workflow is **non-negotiable**.
 
@@ -96,21 +58,17 @@ This workflow is **non-negotiable**.
 
 ## 🔐 Security & Governance
 
-Security is embedded into both process and architecture.
+- Least-privilege access via GitHub Teams  
+- CODEOWNERS enforced  
+- Secrets via GitHub Environments  
+- Admin access restricted  
 
-- Least-privilege access enforced via GitHub Teams  
-- Code ownership defined using `CODEOWNERS`  
-- Secrets managed through GitHub Environments  
-- CI/CD pipelines are isolated and auditable  
-- Administrative privileges restricted to `org-admins`  
-
-Every repository is expected to be **audit-ready by default**.
+Security is embedded, not added later.
 
 ---
 
 ## 🌐 Links
 
-- 🌍 Website: https://www.breachion.com  
-- 💼 LinkedIn: https://www.linkedin.com/company/breachion-technology  
-- 📸 Instagram: https://www.instagram.com/breachion  
-- ✉️ Contact: breachion@gmail.com
+- https://www.breachion.com  
+- https://www.linkedin.com/company/breachion-technology  
+- https://www.instagram.com/breachion  
