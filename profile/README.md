@@ -1,146 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=33CCFF&center=true&vCenter=true&width=900&lines=Breachion+Technology;Problem-Driven+Software+Engineering;Security+%E2%9C%94%EF%B8%8F+%7C+Scalable+Systems" />
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/company/breachion-technology" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Organization-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:breachion@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.breachion.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33CCFF&center=true&vCenter=true&width=900&lines=Breachion-Technology;Software+Engineering+Organization;Language-Agnostic+%7C+Platform-Independent;Systems+Engineering+%7C+Infrastructure+%7C+DevOps;Clean+Architecture+%7C+Scalable+Systems+%7C+Security+First" />
 </div>
 
----
+## 🏢 About This Organization
+This organization is built around **problem-driven, language-agnostic software engineering**.  
+We design, build, deploy, and operate software systems **independent of programming language, framework, or platform**.
 
-## :sparkles: Kısa Tanıtım
+Our focus is not on specific technologies, but on:
+- Correct system design
+- Clean and maintainable architecture
+- Scalability and performance
+- Security and operational excellence
 
-Breachion Technology, teknoloji ve organizasyonel disiplinleri birleştirerek dil-agnostik, platform-bağımsız ve güvenlik-öncelikli yazılım sistemleri inşa eden bir mühendislik organizasyonudur. Amacımız; sürdürülebilir, test edilebilir ve üretim düzeyinde işletilebilir çözümler üretmektir.
+We follow role-based team structures, least-privilege access control, pull-request–driven development, and production-grade CI/CD practices across all projects.
 
----
+## 👥 Teams & Responsibilities
+| Team | Responsibility |
+|----|---------------|
+| org-admins | Organization ownership, security policies, repository administration |
+| backend | Core application logic, APIs, services, integrations |
+| frontend | User interfaces, client applications, user experience |
+| devops | Infrastructure, CI/CD pipelines, deployments, monitoring |
+| qa | Quality assurance, testing strategies, release validation |
+| product | Product direction, requirements, roadmap management |
+| design | UI/UX design systems and visual standards |
+| read-only | Stakeholders, observers, and external reviewers |
 
-## :dart: Temel İlkeler
-
-- Problem odaklı mühendislik: Teknolojiden önce problemi anlarız.
-- Clean Architecture: Bağımsız, test edilebilir katmanlar.
-- Güvenlik ilk sırada: Önlem, gözlem ve otomasyon.
-- Operasyonel mükemmellik: CI/CD, monitoring ve SRE pratikleri.
-
----
-
-## :busts_in_silhouette: Takımlar ve Sorumluluklar
-
-| Takım | Sorumluluk |
-|---|---|
-| org-admins | Organizasyon yönetimi, politika ve güvenlik ayarları |
-| backend | Servisler, API'ler, iş mantığı |
-| frontend | UI/UX, müşteri uygulamaları |
-| devops | Altyapı, CI/CD, monitoring |
-| qa | Test otomasyonu, kalite güvencesi |
-| product | Yol haritası, gereksinim yönetimi |
-| design | Tasarım sistemleri ve görsel rehberlik |
-
----
-
-## :rocket: Yetkinlik Alanlarımız
-
+## 🚀 Engineering Scope & Capabilities
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>Yazılım Mühendisliği</h3>
-      <p>Dil-agnostik geliştirme: backend, frontend, mobil, gömülü.</p>
-      <p><b>Takım:</b> backend / frontend</p>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,cs,cpp,rust&theme=dark&perline=6" />
+      <h3>Software Engineering</h3>
+      <p>Language-agnostic development across backend, frontend, desktop, mobile, and embedded systems.</p>
+      <p><b>Team:</b> backend / frontend</p>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,cs,cpp,rust,php,ruby&theme=dark&perline=5" />
     </td>
     <td align="center" width="50%">
-      <h3>Altyapı & Operasyonlar</h3>
-      <p>Bulut, CI/CD, otomasyon, gözlemlenebilirlik ve güvenlik.</p>
-      <p><b>Takım:</b> devops</p>
-      <img src="https://skillicons.dev/icons?i=linux,docker,k8s,nginx,githubactions,terraform,ansible&theme=dark&perline=6" />
+      <h3>Infrastructure & Operations</h3>
+      <p>Cloud, on-prem, networking, automation, CI/CD, and system observability.</p>
+      <p><b>Team:</b> devops</p>
+      <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,githubactions,terraform,ansible&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
 
----
+## 🔁 Development Workflow
+All development follows a standardized workflow regardless of technology stack.  
+Feature branches are created from the main branch, pull requests are mandatory, reviewers are assigned automatically via code ownership rules, a minimum of two approvals is required, all automated checks must pass, and merges to protected branches are performed exclusively through pull requests.
 
-## :gear: Geliştirme İş Akışı (Özet)
+## 🔐 Security & Governance
+Direct pushes to protected branches are disabled.  
+Access control is enforced strictly through GitHub Teams using a least-privilege model.  
+Code ownership is defined via CODEOWNERS, secrets are managed through GitHub Environments, and administrative privileges are limited to the org-admins team to ensure operational and security integrity.
 
-- Tüm geliştirme `main` / `trunk` politikasıyla korunur.
-- Özellikler için branch => PR => en az 2 onay => otomatik kontroller (lint, test, security) => merge.
-- Kod sahipliği `CODEOWNERS` ile tanımlıdır; korunan dallara doğrudan push yok.
-
-<details>
-<summary><b>Detaylı adımlar</b></summary>
-
-1. Yeni bir feature branch açın: `feature/<kısa-açıklama>`
-2. PR açmadan önce local testleri çalıştırın ve lint düzeltin.
-3. PR açıklamasında problem tanımı, çözüm yaklaşımı ve test talimatlarını yazın.
-4. En az 2 reviewer atandıktan sonra CI başarıyla geçmelidir.
-5. Merge sonrası deployment pipeline tetiklenir (environment kurallarına göre).
-
-</details>
-
----
-
-## :shield: Güvenlik & Yönetişim
-
-- Korunan dallar, least-privilege takım erişimleri ve GitHub Environments kullanımı.
-- Hassas bilgileri GitHub Secrets veya güvenli secret yönetimi ile saklayın.
-- Güvenlik açıklarını bildirirken lütfen `SECURITY.md` içindeki adımları takip edin.
-
----
-
-## :handshake: Katkıda Bulunma
-
-Katkı yapmak istiyorsanız şu adımları izleyin:
-
-1. İlgili repoyu fork'layın veya organizasyon içindeki template'i kullanın.
-2. Yeni bir branch oluşturun.
-3. Değişiklikleri PR ile gönderin; PR açıklamasında değişikliklerin kısa özeti olsun.
-4. Tüm CI kontrollerini geçtikten sonra en az 2 onay ile merge edilecektir.
-
-Detaylı rehberler ve şablonlar için aşağıdaki dosyalara bakın:
-
-- `CONTRIBUTING.md` (şablonlar, commit mesaj kuralları)
-- `CODE_OF_CONDUCT.md` (davranış kuralları)
-- `SECURITY.md` (güvenlik bildirimi yolu)
-
----
-
-## :sparkles: Hızlı Başlangıç / Onboarding (Yeni Repo Sahipleri)
-
-- `README_TEMPLATE.md` kullanarak repository README'sini hızlıca hazırlayın.
-- `ISSUE_TEMPLATE.md` ve `PULL_REQUEST_TEMPLATE.md` ekleyin.
-- `CODEOWNERS` ve gerekli takımları ayarlayın.
-
-<details>
-<summary><b>Kontrol listesi</b></summary>
-
-- [ ] Korunan branch politikası
-- [ ] CODEOWNERS dosyası
-- [ ] CI pipeline (lint, test, build)
-- [ ] Security scanning entegrasyonu
-- [ ] Temel monitoring / alert yapılandırması
-
-</details>
-
----
-
-## :mailbox_with_mail: İletişim
-
-- LinkedIn: https://www.linkedin.com/company/breachion-technology
-- E-posta: breachion@gmail.com
-- Web: https://www.breachion.com
-
----
-
-## :label: Lisans
-
-Bu organizasyonun genel politikaları ve lisans bilgileri için `LICENSE` dosyasına bakınız.
-
----
-
-> Eğer isterseniz bu dosyanın İngilizce versiyonunu hazırlayayım, veya bu README'yi doğrudan organizasyonunuzun ana sayfasına ekleyebilirim.
+<div align="center">
+  <a href="https://www.linkedin.com/company/breachion-technology" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Organization-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:breachion@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/breachion/?igsh=MmIwNTcyZTZkOHQ3">
+    <img src="https://img.shields.io/badge/Instagram-@breachion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.breachion.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
