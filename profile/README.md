@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/breachion.com-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.breachion.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/breachion-technology)
 [![Instagram](https://img.shields.io/badge/@breachion-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breachion/)
-[![Email](https://img.shields.io/badge/breachion@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breachion@gmail.com)
+[![Email](https://img.shields.io/badge/info@breachion.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@breachion.com)
 
 </div>
 
@@ -187,7 +187,7 @@ Domains:
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │  01   Correctness over cleverness                                   │
-│  02   Security is not a layer — it is the foundation               │
+│  02   Security is not a layer — it is the foundation                │
 │  03   Operational excellence starts at the design phase             │
 │  04   Every system must be operable by someone who didn't build it  │
 │  05   The stack serves the problem — never the other way around     │
@@ -203,6 +203,6 @@ Domains:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
-<sub>© Breachion Technology · <a href="https://www.breachion.com/">breachion.com</a> · <a href="mailto:breachion@gmail.com">breachion@gmail.com</a></sub>
+<sub>© Breachion Technology · <a href="https://www.breachion.com/">breachion.com</a> · <a href="mailto:info@breachion.com">info@breachion.com</a></sub>
 
 </div>
