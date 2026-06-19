@@ -1,170 +1,208 @@
 <div align="center">
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=BREACHION">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=52&duration=0&pause=0&color=0D0D0D&center=true&vCenter=true&repeat=false&width=600&height=80&lines=BREACHION" alt="BREACHION" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=13&duration=0&pause=0&color=888888&center=true&vCenter=true&repeat=false&width=600&height=28&lines=TECHNOLOGY+%E2%80%94+SOFTWARE+ENGINEERING+ORGANIZATION">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=13&duration=0&pause=0&color=666666&center=true&vCenter=true&repeat=false&width=600&height=28&lines=TECHNOLOGY+%E2%80%94+SOFTWARE+ENGINEERING+ORGANIZATION" alt="Technology" />
-</picture>
-
-<br>
-
-[![Web](https://img.shields.io/badge/breachion.com-000?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://www.breachion.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/company/breachion-technology)&nbsp;
-[![Instagram](https://img.shields.io/badge/@breachion-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/breachion/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:breachion@gmail.com)
-
-<br>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=BREACHION&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=TECHNOLOGY%20%E2%80%94%20Software%20Engineering%20Organization&descSize=14&descAlignY=68&descColor=888888&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br>
+<div align="center">
 
-```
-We don't pick a language first.
-We pick the right solution first.
-```
+[![Website](https://img.shields.io/badge/breachion.com-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.breachion.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/breachion-technology)
+[![Instagram](https://img.shields.io/badge/@breachion-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breachion/)
+[![Email](https://img.shields.io/badge/breachion@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breachion@gmail.com)
 
-Breachion Technology is a **language-agnostic software engineering organization** — we design, build, deploy, and operate systems that are correct, scalable, and secure, independent of stack or platform.
-
-Our focus is engineering discipline, not tool preference.
+</div>
 
 <br>
 
 <div align="center">
 
-## ◈ Engineering Domains
+> **We don't pick a language first.**
+> **We pick the right solution first.**
 
 </div>
 
-<table>
-<thead>
+<br>
+
+---
+
+## &nbsp;
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Breachion-Technology&repo=.github&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+## &nbsp;
+
+<table width="100%">
 <tr>
-<th width="25%" align="center">Software Engineering</th>
-<th width="25%" align="center">Infrastructure</th>
-<th width="25%" align="center">Security</th>
-<th width="25%" align="center">Architecture</th>
+<td width="50%" valign="top">
+
+### 🔷 Software Engineering
+Language-agnostic development across all platforms and environments.
+
+```yaml
+Domains:
+  - Backend Services & APIs
+  - Frontend Applications
+  - Desktop & Mobile
+  - Embedded Systems
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Infrastructure & DevOps
+Cloud, on-prem, automation, CI/CD, full observability.
+
+```yaml
+Domains:
+  - Container Orchestration
+  - CI/CD Pipelines
+  - Networking & Security
+  - System Observability
+```
+
+</td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td align="center"><sub>Backend · Frontend · Desktop<br>Mobile · Embedded</sub></td>
-<td align="center"><sub>Cloud · On-premise · CI/CD<br>Observability · Networking</sub></td>
-<td align="center"><sub>Threat modeling · Least-privilege<br>Secrets management · Audit</sub></td>
-<td align="center"><sub>Clean arch · DDD · Event-driven<br>Long-term maintainability</sub></td>
+<td width="50%" valign="top">
+
+### 🔷 Security Engineering
+Security baked in from the design phase, not bolted on after.
+
+```yaml
+Domains:
+  - Threat Modeling
+  - Access Control Architecture
+  - Secrets Management
+  - Security Audits
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Systems Architecture
+Long-term maintainability at scale, domain-driven design.
+
+```yaml
+Domains:
+  - Clean Architecture
+  - Event-Driven Systems
+  - Domain-Driven Design
+  - Performance Engineering
+```
+
+</td>
 </tr>
-</tbody>
 </table>
 
-<br>
+---
+
+## Tech Stack
 
 <div align="center">
 
-## ◈ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Languages**
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=python,ts,go,rust,cpp,java,cs,php&theme=dark&perline=8" />
-
-<br>
-
-**Infrastructure & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,terraform,ansible,linux,bash&theme=dark&perline=8" />
-
-<br>
-
-**Data & Systems**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,elasticsearch&theme=dark&perline=8" />
+### Data & Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
 
-<br>
+---
+
+## Development Workflow
 
 <div align="center">
-
-## ◈ Development Workflow
-
-</div>
 
 ```
-  ┌──────────┐     ┌──────────┐     ┌────────────────────┐     ┌──────────┐     ┌──────────┐
-  │  feature │ ──▶ │   pull   │ ──▶ │   code review      │ ──▶ │  CI/CD   │ ──▶ │  merge   │
-  │  branch  │     │ request  │     │   (2 approvals)    │     │  checks  │     │  to main │
-  └──────────┘     └──────────┘     └────────────────────┘     └──────────┘     └──────────┘
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   feature/  ──▶  pull request  ──▶  review × 2  ──▶  CI pass  ──▶  main  ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
-- `protected branches` — no direct push, no exceptions
-- `CODEOWNERS` — enforced on every repository
-- `least privilege` — GitHub Teams with scoped per-role access
-- `secrets` — managed through GitHub Environments, never in code
-- `automated gates` — tests · linting · security scans block every merge
-
-<br>
-
-<div align="center">
-
-## ◈ Team Structure
 
 </div>
 
-| `team` | scope |
+<br>
+
+| Rule | Detail |
 |:---|:---|
-| **org-admins** | Organization governance, security policy, repository administration |
-| **backend** | Core services, APIs, business logic, data pipelines |
-| **frontend** | Client applications, UI systems, accessibility |
-| **devops** | Infrastructure, CI/CD, deployments, monitoring, alerting |
-| **qa** | Testing strategy, release validation, quality gates |
-| **product** | Requirements, roadmap, stakeholder alignment |
-| **design** | Visual systems, UX standards, design language |
-| **read-only** | External reviewers, stakeholders, observers |
+| 🔒 **Protected branches** | No direct push to `main` or `develop`, ever |
+| 👥 **Code ownership** | `CODEOWNERS` enforced on every repository |
+| 🎯 **Least privilege** | GitHub Teams with scoped per-role access |
+| 🔑 **Secrets** | GitHub Environments only — never in source code |
+| ✅ **Automated gates** | Tests + linting + security scans on every merge |
 
-<br>
+---
+
+## Team Structure
 
 <div align="center">
 
-## ◈ Engineering Principles
+| Team | Responsibility |
+|:---:|:---|
+| `org-admins` | Organization governance · Security policy · Repository administration |
+| `backend` | Core services · APIs · Business logic · Data pipelines |
+| `frontend` | Client applications · UI systems · Accessibility |
+| `devops` | Infrastructure · CI/CD · Deployments · Monitoring |
+| `qa` | Testing strategy · Release validation · Quality gates |
+| `product` | Requirements · Roadmap · Stakeholder alignment |
+| `design` | Visual systems · UX standards · Design language |
+| `read-only` | External reviewers · Stakeholders · Observers |
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-```
-01  Correctness over cleverness
-02  Security is not a layer — it is the foundation
-03  Operational excellence starts at the design phase
-```
-
-</td>
-<td width="50%">
-
-```
-04  Every system must be operable by someone who didn't build it
-05  The stack serves the problem — never the other way around
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+## Engineering Principles
 
 <div align="center">
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  01   Correctness over cleverness                                   │
+│  02   Security is not a layer — it is the foundation               │
+│  03   Operational excellence starts at the design phase             │
+│  04   Every system must be operable by someone who didn't build it  │
+│  05   The stack serves the problem — never the other way around     │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-<sub>© Breachion Technology &nbsp;·&nbsp; <a href="https://www.breachion.com/">breachion.com</a> &nbsp;·&nbsp; <a href="mailto:breachion@gmail.com">breachion@gmail.com</a></sub>
+</div>
 
-<br>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+<sub>© Breachion Technology · <a href="https://www.breachion.com/">breachion.com</a> · <a href="mailto:breachion@gmail.com">breachion@gmail.com</a></sub>
 
 </div>
