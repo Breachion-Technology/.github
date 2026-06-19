@@ -1,160 +1,176 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=280&text=BREACHION&fontAlign=50&fontAlignY=42&fontSize=90&fontColor=ffffff&desc=TECHNOLOGY%20%E2%80%94%20Software%20Engineering%20Organization&descAlign=50&descAlignY=62&descSize=15&descColor=444444&stroke=222222&strokeWidth=1" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=320&text=BREACHION&fontSize=96&fontColor=FFFFFF&fontAlign=50&fontAlignY=44&desc=Technology%20%E2%80%94%20Software%20Engineering%20Organization&descSize=16&descColor=555555&descAlign=50&descAlignY=64&stroke=FFFFFF&strokeWidth=0" width="100%"/>
+
+</div>
+
+<!---------------- LINKS ---------------->
+
+<div align="center">
+<br>
+
+[![](https://img.shields.io/badge/breachion.com-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://www.breachion.com/)
+&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/company/breachion-technology)
+&nbsp;
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/breachion/)
+&nbsp;
+[![](https://img.shields.io/badge/info@breachion.com-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:info@breachion.com)
+
+<br><br>
+
+</div>
+
+<!---------------- DIVIDER ---------------->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
+
+<br><br>
+
+<!---------------- MANIFESTO ---------------->
 
 <div align="center">
 
-<br>
-
-[![Website](https://img.shields.io/badge/breachion.com-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://www.breachion.com/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/breachion-technology)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breachion/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/info@breachion.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@breachion.com)
+### We don't pick a language first.
+### We pick the right solution first.
 
 <br>
-<br>
 
-```
-  We don't pick a language first.   We pick the right solution first.
-```
-
-<br>
+*Language-agnostic · Platform-independent · Security-first*
 
 </div>
 
----
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
+
+<br><br>
+
+<!---------------- DOMAINS ---------------->
+
+<div align="center">
+
+## DOMAINS
 
 <br>
 
-<div align="left">
-
-### `01` &nbsp; What We Do
-
-</div>
-
-Breachion Technology is a **language-agnostic software engineering organization.**
-We design, build, deploy, and operate systems that are correct, scalable, and secure — independent of stack, framework, or platform.
-
-Engineering discipline first. Tool preference never.
-
-<br>
-
----
-
-<br>
-
-<div align="left">
-
-### `02` &nbsp; Domains
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Software_Engineering-111111?style=for-the-badge" /><br><br>
-<sub>Backend · Frontend<br>Desktop · Mobile · Embedded</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Infrastructure_%26_DevOps-1a1a1a?style=for-the-badge" /><br><br>
-<sub>Cloud · On-premise<br>CI/CD · Observability</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Security_Engineering-111111?style=for-the-badge" /><br><br>
-<sub>Threat modeling<br>Least-privilege · Secrets</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Systems_Architecture-1a1a1a?style=for-the-badge" /><br><br>
-<sub>Clean arch · DDD<br>Event-driven · Scale</sub>
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" /><br>
+      <strong>SOFTWARE</strong><br><strong>ENGINEERING</strong><br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" />
+      <br><br>
+      <sub>Backend · Frontend</sub><br>
+      <sub>Desktop · Mobile · Embedded</sub>
+      <br><br>
+    </td>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" /><br>
+      <strong>INFRASTRUCTURE</strong><br><strong>& DEVOPS</strong><br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" />
+      <br><br>
+      <sub>Cloud · On-premise</sub><br>
+      <sub>CI/CD · Observability</sub>
+      <br><br>
+    </td>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" /><br>
+      <strong>SECURITY</strong><br><strong>ENGINEERING</strong><br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" />
+      <br><br>
+      <sub>Threat modeling</sub><br>
+      <sub>Access control · Audit</sub>
+      <br><br>
+    </td>
+    <td align="center" width="200">
+      <br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" /><br>
+      <strong>SYSTEMS</strong><br><strong>ARCHITECTURE</strong><br>
+      <img src="https://img.shields.io/badge/─────────────────-000000?style=flat-square" />
+      <br><br>
+      <sub>Clean arch · DDD</sub><br>
+      <sub>Event-driven · Scale</sub>
+      <br><br>
+    </td>
+  </tr>
 </table>
 
-<br>
-
----
-
-<br>
-
-<div align="left">
-
-### `03` &nbsp; Tech Stack
-
 </div>
 
-<br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
+
+<br><br>
+
+<!---------------- STACK ---------------->
 
 <div align="center">
 
-**— Languages —**
+## STACK
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,ts,go,rust,cpp,java,cs,php&theme=dark&perline=8" />
 
 <br><br>
 
-**— Infrastructure —**
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,terraform,ansible,linux,bash&theme=dark&perline=8" />
 
 <br><br>
-
-**— Data & Systems —**
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,elasticsearch&theme=dark&perline=8" />
 
 </div>
 
-<br>
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
 
-<br>
+<br><br>
 
-<div align="left">
-
-### `04` &nbsp; Workflow
-
-</div>
-
-<br>
+<!---------------- WORKFLOW ---------------->
 
 <div align="center">
 
-```
-  ╔════════════╗      ╔════════════╗      ╔═══════════════════╗      ╔════════════╗      ╔══════════╗
-  ║  feature/  ║  ──▶ ║    pull    ║  ──▶ ║    review × 2     ║  ──▶ ║  CI / CD   ║  ──▶ ║   main   ║
-  ╚════════════╝      ╚════════════╝      ╚═══════════════════╝      ╚════════════╝      ╚══════════╝
-```
-
-</div>
+## WORKFLOW
 
 <br>
 
-| | Rule |
+| `feature branch` | → | `pull request` | → | `review × 2` | → | `CI pass` | → | `main` |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+<br>
+
+| | |
 |:---:|:---|
-| 🔒 | **Protected branches** — no direct push, ever |
-| 📋 | **CODEOWNERS** enforced on every repository |
-| 🎯 | **Least privilege** — GitHub Teams, scoped per role |
-| 🔑 | **Secrets** via GitHub Environments — never in source code |
-| ✅ | **Automated gates** — tests + linting + security scans |
-
-<br>
-
----
-
-<br>
-
-<div align="left">
-
-### `05` &nbsp; Teams
+| 🔒 | Protected branches — no direct push, ever |
+| 📋 | CODEOWNERS enforced on every repository |
+| 🎯 | Least privilege — GitHub Teams, scoped per role |
+| 🔑 | Secrets via GitHub Environments — never in source |
+| ✅ | Automated gates — tests, linting, security scans |
 
 </div>
 
-<br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
+
+<br><br>
+
+<!---------------- TEAMS ---------------->
 
 <div align="center">
 
-| Team | Scope |
+## TEAMS
+
+<br>
+
+| Team | Responsibility |
 |:---:|:---|
 | `org-admins` | Governance · Security policy · Repository administration |
 | `backend` | Core services · APIs · Business logic · Data pipelines |
@@ -167,48 +183,52 @@ Engineering discipline first. Tool preference never.
 
 </div>
 
-<br>
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" width="100%"/>
 
-<br>
+<br><br>
 
-<div align="left">
-
-### `06` &nbsp; Principles
-
-</div>
-
-<br>
+<!---------------- PRINCIPLES ---------------->
 
 <div align="center">
 
-```
-  ┌───────────────────────────────────────────────────────────────────────────┐
-  │                                                                           │
-  │   01   Correctness over cleverness                                        │
-  │                                                                           │
-  │   02   Security is not a layer — it is the foundation                     │
-  │                                                                           │
-  │   03   Operational excellence starts at the design phase                  │
-  │                                                                           │
-  │   04   Every system must be operable by someone who didn't build it       │
-  │                                                                           │
-  │   05   The stack serves the problem — never the other way around          │
-  │                                                                           │
-  └───────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+## PRINCIPLES
 
 <br>
 
----
+**01 &nbsp;&nbsp; Correctness over cleverness**
+
+<sub>We write systems that do exactly what they are supposed to do. Nothing more.</sub>
 
 <br>
 
-<div align="center">
+**02 &nbsp;&nbsp; Security is not a layer — it is the foundation**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:000000&height=60&text=breachion.com%20%C2%B7%20info%40breachion.com&fontSize=13&fontColor=333333&fontAlign=50&fontAlignY=50" width="100%" />
+<sub>Every architectural decision is a security decision. We treat it that way from day one.</sub>
+
+<br>
+
+**03 &nbsp;&nbsp; Operational excellence starts at the design phase**
+
+<sub>A system that cannot be operated is not finished. Observability and runbooks ship with the code.</sub>
+
+<br>
+
+**04 &nbsp;&nbsp; Every system must be operable by someone who didn't build it**
+
+<sub>We document, we automate, we make the implicit explicit.</sub>
+
+<br>
+
+**05 &nbsp;&nbsp; The stack serves the problem — never the other way around**
+
+<sub>We reach for the right tool. We never force a problem to fit a preferred tool.</sub>
 
 </div>
+
+<br><br>
+
+<!---------------- FOOTER ---------------->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=80&text=breachion.com%20%C2%B7%20info%40breachion.com&fontSize=14&fontColor=444444&fontAlign=50&fontAlignY=50" width="100%"/>
